@@ -1,0 +1,23 @@
+.category-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.category-list button {
+  background-color: #ecc722;
+  color: #333;
+  border: 1px solid #ecc722;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.category-list button:hover,
+.category-list button:focus {
+  background-color: #d2b11d;
+  border-color: #d2b11d;
+}

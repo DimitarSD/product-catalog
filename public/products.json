@@ -1,0 +1,204 @@
+{
+  "categories": [
+    {
+      "name": "Software",
+      "products": [
+        {
+          "id": 1,
+          "name": "Norton 360 Deluxe",
+          "description": "Norton 360 Deluxe provides comprehensive protection for your devices and online privacy, including antivirus, firewall, password manager, and VPN.",
+          "image": "https://www.licencedeals.com/cdn/shop/products/Norton-Security-360-Deluxe-3Users-1Year-download-digital-licence_1024x1024.png?v=1617218750",
+          "price": 49.99,
+          "features": {
+            "platform": "Windows, Mac, Android, iOS",
+            "license": "1 year",
+            "version": "2024"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Adobe Photoshop CC",
+          "description": "Adobe Photoshop CC is the world’s best imaging and graphic design software used by professionals for creating stunning photos, designs, and artwork.",
+          "image": "https://www.licencedeals.com/cdn/shop/files/Adobe-Photoshop-CC-VIP-For-Teams-1-year-download-digital-licence_1024x1024.jpg?v=1682600037",
+          "price": 239.88,
+          "features": {
+            "platform": "Windows, Mac",
+            "license": "Annual Subscription",
+            "version": "2024"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Microsoft Office 365",
+          "description": "Microsoft Office 365 provides access to Word, Excel, PowerPoint, and other Microsoft Office apps, with cloud storage and collaboration features.",
+          "image": "https://s13emagst.akamaized.net/products/45142/45141766/images/res_ed7799fb9f7519eec9a6ed48c235b33b.jpg?width=720&height=720&hash=570159C3288CABE110E8CB6A925A926F",
+          "price": 99.99,
+          "features": {
+            "platform": "Windows, Mac",
+            "license": "Annual Subscription",
+            "version": "2024"
+          }
+        },
+        {
+          "id": 4,
+          "name": "AutoCAD 2024",
+          "description": "AutoCAD 2024 provides precise 2D and 3D CAD design tools, widely used by architects, engineers, and construction professionals.",
+          "image": "https://promart.vteximg.com.br/arquivos/ids/8061569-1000-1000/Licencia-Autodesk-AutoCAD-2024-1-A%C3%B1o.jpg?v=638563558646570000",
+          "price": 1699.99,
+          "features": {
+            "platform": "Windows, Mac",
+            "license": "Annual Subscription",
+            "version": "2024"
+          }
+        },
+        {
+          "id": 5,
+          "name": "CorelDRAW Graphics Suite 2024",
+          "description": "CorelDRAW Graphics Suite 2024 is a powerful graphic design software for vector illustration, layout, photo editing, and more.",
+          "image": "https://www.swingdesign.com/cdn/shop/files/coreldraw-2024-full-graphics-suite-1-year-subscription-pc-mac-software-coreldraw-784665_2048x.jpg?v=1712185994",
+          "price": 499.99,
+          "features": {
+            "platform": "Windows, Mac",
+            "license": "Lifetime",
+            "version": "2024"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mobile Devices",
+      "products": [
+        {
+          "id": 1,
+          "name": "iPhone 15 Pro Max",
+          "description": "The iPhone 15 Pro Max features a 6.7-inch Super Retina XDR display, A17 Bionic chip, Pro camera system, and is designed with aerospace-grade aluminum.",
+          "image": "https://istyle.bg/media/catalog/product/i/p/iphone_15_pro_max_natural_titanium_pdp_image_position-1__en-us_1_1_1.jpg",
+          "price": 1299.99,
+          "features": {
+            "battery": "4352mAh",
+            "processor": "A17 Bionic",
+            "ram": "8GB",
+            "storage": "256GB, 512GB, 1TB"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Samsung Galaxy Tab S9 Ultra",
+          "description": "The Samsung Galaxy Tab S9 Ultra offers a 14.6-inch AMOLED display, Snapdragon 8 Gen 2 processor, and is perfect for productivity and entertainment.",
+          "image": "https://cdncloudcart.com/402/products/images/144500/tablet-samsung-galaxy-tab-s9-ultra-5g-graphite-25612gb-x916bza-64b67e678759a.webp?1689681511",
+          "price": 1199.99,
+          "features": {
+            "battery": "11200mAh",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "12GB",
+            "storage": "256GB, 512GB, 1TB"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Google Pixel 7 Pro",
+          "description": "The Google Pixel 7 Pro offers a 6.7-inch QHD+ display, Google Tensor G2 chip, and a triple rear camera system with advanced AI capabilities.",
+          "image": "https://www.telefonino.net/app/uploads/2022/10/Pixel-7-Pro-All.jpg",
+          "price": 899.99,
+          "features": {
+            "battery": "5000mAh",
+            "processor": "Google Tensor G2",
+            "ram": "12GB",
+            "storage": "128GB, 256GB, 512GB"
+          }
+        },
+        {
+          "id": 4,
+          "name": "OnePlus 11",
+          "description": "The OnePlus 11 features a 6.7-inch Fluid AMOLED display, Snapdragon 8 Gen 2 processor, and a versatile camera system for high-quality photos and videos.",
+          "image": "https://www.citytel.bg/uploads/com_article/gallery/c3c108a54f25c035d6dabc115c4b417e9ce238e4.jpg",
+          "price": 699.99,
+          "features": {
+            "battery": "5000mAh",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "8GB",
+            "storage": "128GB, 256GB"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Sony Xperia 1 V",
+          "description": "The Sony Xperia 1 V features a 6.5-inch 4K OLED display, Snapdragon 8 Gen 2 processor, and a unique triple-lens camera system designed for creators.",
+          "image": "https://www.clove.co.uk/cdn/shop/products/99b59a08-7eff-4238-b91e-a9e76b15f03f_1200x.jpg?v=1652285871",
+          "price": 1199.99,
+          "features": {
+            "battery": "5000mAh",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "12GB",
+            "storage": "256GB"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "products": [
+        {
+          "id": 1,
+          "name": "Men's Biker Leather Jacket",
+          "description": "This stylish biker leather jacket for men is made from genuine leather, offering a timeless look perfect for casual and formal occasions.",
+          "image": "https://truclothing.com/cdn/shop/products/Mens-Biker-Leather-Jacket-with-Spikes-4.webp?v=1677264598&width=1080",
+          "price": 299.99,
+          "features": {
+            "size": "M, L, XL",
+            "color": "Black, Brown",
+            "material": "Genuine Leather"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Nike Air Zoom Pegasus 40",
+          "description": "Nike Air Zoom Pegasus 40 are lightweight, comfortable running shoes designed for everyday training and long-distance running.",
+          "image": "https://www.sportvision.bg/files/watermark/files/images/slike_proizvoda/media/DV3/DV3853-001/images/thumbs_w/DV3853-001_w_800_800px.jpg",
+          "price": 129.99,
+          "features": {
+            "size": "8, 9, 10, 11, 12",
+            "color": "Blue, Black, White",
+            "material": "Mesh, Rubber"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Women's Trench Coat",
+          "description": "This classic women's trench coat is perfect for spring and fall, featuring a double-breasted design and made from water-resistant material.",
+          "image": "https://assets.manufactum.de/p/066/066382/66382_01.jpg/ladies-trench-coat-etaproof.jpg?profile=pdsmain_1500",
+          "price": 249.99,
+          "features": {
+            "size": "S, M, L, XL",
+            "color": "Beige, Navy, Black",
+            "material": "Cotton, Polyester"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Ray-Ban Aviator Sunglasses",
+          "description": "The Ray-Ban Aviator sunglasses feature a timeless design with polarized lenses for full UV protection and maximum comfort.",
+          "image": "https://www.sunglasses-shop.bg/image/cache/data/Sub003/Ray-Ban-Aviator-Large-Metal-RB3025-181-71-550x550w.jpg",
+          "price": 159.99,
+          "features": {
+            "size": "One Size",
+            "color": "Gold, Silver, Black",
+            "material": "Metal, Glass"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Adidas Ultraboost 22",
+          "description": "The Adidas Ultraboost 22 offers ultimate comfort and energy return with a Primeknit upper and Boost midsole, ideal for running or casual wear.",
+          "image": "https://www.sportvision.bg/files/images/slike_proizvoda/media/GX3/GX3060/images/GX3060.jpg",
+          "price": 179.99,
+          "features": {
+            "size": "8, 9, 10, 11, 12",
+            "color": "Black, White, Grey",
+            "material": "Primeknit, Rubber"
+          }
+        }
+      ]
+    }
+  ]
+}
